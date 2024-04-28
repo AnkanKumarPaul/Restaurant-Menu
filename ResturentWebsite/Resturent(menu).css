@@ -1,0 +1,76 @@
+body {
+   background-color: #ff0000;
+}
+
+.field {
+   background-color: #77ff00;
+   color: #3700ff;
+}
+
+.table {
+   margin-left: 10%;
+}
+
+.food {
+   background-color: #008cff;
+   text-align: center;
+   width: 60%;
+   margin-left: 25%;
+
+}
+
+.nonveg {
+   background-color: rgb(255, 255, 255);
+}
+
+.veg {
+   background-color: rgb(254, 254, 254);
+}
+
+.outlets {
+   background-color: rgb(251, 255, 0);
+   float: left;
+}
+
+.BranchesList {
+   background-color: rgb(8, 0, 255);
+}
+
+.message {
+   background-color: rgb(255, 0, 0);
+   float: left;
+}
+
+.messagetwo {
+   background-color: #00ff26;
+}
+
+.outletmessage {
+   background-color: #fefefd;
+   color: #ff0000;
+}
+
+.items {
+   background-color: #8400ff;
+}
+
+.ShowMenu {
+   background-color: #fefefd;
+   margin-left: 40%;
+}
+
+.Showlogin {
+   background-color: #fffdfe;
+   padding: 5px;
+   margin-left: 40%;
+   margin-bottom: 50%;
+}
+
+.messagethree {
+   background-color: rgb(0, 166, 255);
+   color: rgb(238, 255, 0);
+}
+
+.star {
+   background-color: #77ff00;
+}
